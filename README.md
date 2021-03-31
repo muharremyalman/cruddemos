@@ -11,3 +11,5 @@ npm run serve
 ```
 json-server --watch db.json
 ```
+
+![Proje Resmi](https://i.hizliresim.com/PuHntz.png)
