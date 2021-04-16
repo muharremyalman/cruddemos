@@ -12,4 +12,4 @@ npm run serve
 json-server --watch db.json
 ```
 
-![Proje Resmi](https://i.hizliresim.com/PuHntz.png)
+![vuejs](https://user-images.githubusercontent.com/61657285/115090543-d0bf5480-9f1d-11eb-8b82-4c1709e64eaa.png)
